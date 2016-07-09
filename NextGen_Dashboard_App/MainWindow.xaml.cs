@@ -16,7 +16,7 @@ using System.Diagnostics;
 using System.ServiceProcess;
 using System.IO;
 
-
+//WMD - Simple app for mocking dpms environments to run NG add on modules
 
 namespace NextGen_Dashboard_App
 {

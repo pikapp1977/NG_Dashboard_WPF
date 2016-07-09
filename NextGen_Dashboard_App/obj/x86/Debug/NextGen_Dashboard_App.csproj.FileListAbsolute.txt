@@ -75,3 +75,5 @@ W:\VS_PROJECTS\Projects\WPF_NextGen_Dashboard_App\NextGen_Dashboard_App\obj\x86\
 W:\VS_PROJECTS\Projects\WPF_NextGen_Dashboard_App\NextGen_Dashboard_App\obj\x86\Debug\WPF_NextGen_Dashboard_App.pdb
 C:\NG_Tools\NG_Dashboard_WPF\NextGen_Dashboard_App\obj\x86\Debug\WPF_NextGen_Dashboard_App.exe
 C:\NG_Tools\NG_Dashboard_WPF\NextGen_Dashboard_App\obj\x86\Debug\WPF_NextGen_Dashboard_App.pdb
+C:\Users\Administrator\Documents\GitHub\NG_Dashboard_WPF\NextGen_Dashboard_App\obj\x86\Debug\WPF_NextGen_Dashboard_App.exe
+C:\Users\Administrator\Documents\GitHub\NG_Dashboard_WPF\NextGen_Dashboard_App\obj\x86\Debug\WPF_NextGen_Dashboard_App.pdb
