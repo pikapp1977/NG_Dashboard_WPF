@@ -28,7 +28,7 @@ namespace NextGen_Dashboard_App
         public MainWindow()
         {
             InitializeComponent();
-            //CHECK FIRST FOR v4 OR STANDALONE APP SERVER SERIVE
+            //CHECK FIRST FOR v4 OR STANDALONE APP SERVER SERVICE
             using (RegistryKey legacyAppServer = Registry.LocalMachine.OpenSubKey(@"SYSTEM\\CurrentControlSet\\Services\\PWApplicationServer"))
                 if (legacyAppServer != null)
                 {
